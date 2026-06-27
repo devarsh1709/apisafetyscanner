@@ -1,0 +1,8 @@
+backend/scanner.db
+
+frontend/node_modules/
+frontend/dist/assets/
+
+# Python cache
+__pycache__/
+*.pyc
